@@ -1,4 +1,12 @@
 ## Hi there 👋
+
+My name is Roland Bota.
+
+ I’m looking to collaborate on Software Projects .
+- 🤔 I’m looking for help with AI .
+- 💬 Ask me about for problems in hardware and software .
+- 📫 How to reach me: roland.bota@edu.techstarter.de .
+  
 I’m currently working on Projects for Cloud Computing !
 
 
